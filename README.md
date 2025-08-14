@@ -1,2 +1,2 @@
 # MyLeetCode
-This is repo for my solutions to LC problems in python
+This is a repo for my solutions to LC problems in python

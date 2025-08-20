@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="997fb5ed-d6a7-4906-b5fb-5991387df4db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MyLeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array &amp; Hashing/Subarray Sum Equals K.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array &amp; Hashing/Top K frequent element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array &amp; Hashing/Number of Zero-Filled Subarrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Find the K-th Character in String Game I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/From List to Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Power of Two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Remove Linked List Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two pointers/Container With Most Water.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Two pointers/Valid Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Two pointers/Valid Palindrome.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KubuEnjoyer&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KubuEnjoyer/MyLeetCode.git&quot;,
+    &quot;accountId&quot;: &quot;7da04d1c-d281-4579-b4dd-e9c823cb1b60&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -36,16 +50,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Subarray Sum Equals K.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Top K frequent element.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.3Sum.executor": "Debug",
+    "Python.Number of Zero-Filled Subarrays.executor": "Run",
+    "Python.Power of Two.executor": "Run",
+    "Python.Remove Linked List Elements.executor": "Debug",
+    "Python.Subarray Sum Equals K.executor": "Run",
+    "Python.Top K frequent element.executor": "Run",
+    "Python.Valid Palindrome.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,5 +87,31 @@
       <updated>1754855882114</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Two pointers/Valid Palindrome.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion/Remove Linked List Elements.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array &amp; Hashing/Number of Zero-Filled Subarrays.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3Sum.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
